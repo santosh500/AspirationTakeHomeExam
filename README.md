@@ -16,7 +16,9 @@ Problem 1: Capitalize Every nth Character
 Codebase
 ---------------------------------------
 Located in the package: com.aspiration.coderexam.problemone
+
 Class: ProblemOne.java
+
 Function: capitalizeCharacterString()
 ---------------------------------------
 Design And Assumptions
@@ -33,7 +35,9 @@ Problem 2: DoubleSet Implementation
 Codebase
 ---------------------------------------
 Located in the package: com.aspiration.coderexam.problemtwo
+
 Class(s): DoubleSet.java Member.java
+
 Description: DoubleSet.java is the class that implements the functionality, such as createing the DoubleSet (constrcutor), addingTwoDoubleSets, subtractingTwoDoubleSets, etc. The Member.java class is used to manage the values within the DoubleSet.java.
 ---------------------------------------
 Design And Assumptions
