@@ -9,8 +9,8 @@ package com.aspiration.coderexam.problemtwo;
 
 public class Member
 {
-    int value;
-    int count;
+    private int value;
+    private int count;
 
     /*
      * Description: Constructor for Member Object used within DoubleSet
